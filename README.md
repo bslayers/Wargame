@@ -71,7 +71,7 @@ d'aucune classe
 ### Aléatoire
 Cette démonstration illustre la création d'un schéma de configuration aléatoire d'une armée, grâce à un moteur de génération aléatoire. L'objectif est de montrer la disposition et les éléments générés par le moteur.
 
-![Aléatoire](./img/capture_debut_bataille.png)
+![Aléatoire](https://github.com/bslayers/Wargame/tree/main/img/capture_debut_bataille.png)
 
 ---
 
