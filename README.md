@@ -79,7 +79,7 @@ Cette démonstration illustre la création d'un schéma de configuration aléato
 
 Cette démonstration montre le fonctionnement d'un algorithme génétique appliqué à une armée fictive. L'objectif de cet algorithme est d'évoluer et d'optimiser les armées par une série de sélections, mutations et croisements afin de trouver la meilleure configuration possible.
 
-![Génétique](./img/capture_genetique.PNG)
+![Génétique](./img/Capture_genetique.PNG)
 
 
 Nous affichons également la position de l'armée dans le classement pour voir si l'algorithme a été performant.
@@ -91,7 +91,7 @@ Nous affichons également la position de l'armée dans le classement pour voir s
 La recherche systematique liste toute les conbinaison selon un ou plusieurs critère données. 
 Dans notre programme on limite a une taille de 3 la taille des armées pour avoir quelque chose de lisibible.
 
-![Systematique](./img/capture_rs.PNG)
+![Systematique](./img/Capture_rs.PNG)
 
 Cette démonstration utilise un algorithme de recherche systématique pour évaluer et classer différentes armées selon leur performance. Chaque armée est représentée par une combinaison de symboles, avec un score associé.
 
